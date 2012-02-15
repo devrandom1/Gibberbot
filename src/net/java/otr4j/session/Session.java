@@ -8,7 +8,6 @@ import net.java.otr4j.OtrEngineListener;
 import net.java.otr4j.OtrException;
 import net.java.otr4j.OtrPolicy;
 import net.java.otr4j.io.messages.AbstractMessage;
-import net.java.otr4j.session.SessionImpl.TLV;
 
 public interface Session {
 
